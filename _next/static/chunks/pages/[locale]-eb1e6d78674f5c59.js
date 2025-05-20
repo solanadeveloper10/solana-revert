@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9422],{44228:(_,e,n)=>{"use strict";n.r(e),n.d(e,{__N_SSG:()=>r,default:()=>a});var s=n(37876),u=n(54866),r=!0;function a(_){return(0,s.jsx)("div",{className:"overflow-hidden",children:(0,s.jsx)(u.default,{..._})})}},77897:(_,e,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[locale]",function(){return n(44228)}])}},_=>{var e=e=>_(_.s=e);_.O(0,[2701,2867,6923,7117,5852,1196,4866,636,6593,8792],()=>e(77897)),_N_E=_.O()}]);
+//# sourceMappingURL=[locale]-eb1e6d78674f5c59.js.map
